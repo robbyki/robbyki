@@ -27,7 +27,7 @@
 * gh cli
 * docker
 * minio-io
-* operator mono medium font
+* operator mono font
 * vscode devcontainers
 * fzf cli fuzzy finder with vim integration
 * vim nerdtree
