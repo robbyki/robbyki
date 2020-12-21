@@ -34,6 +34,7 @@
 * gruvbox colorscheme
 * powerline prompt
 * dbeaver database client
+* scala
 * zio library (work in progress to learn)
 * sbt
 * jupyter
