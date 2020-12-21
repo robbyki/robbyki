@@ -1,15 +1,15 @@
-## What am I up to?
+# What am I up to?
 ### - I'm currently working at IBM building application level tooling, build environments and ETL
   libraries for data engineering teams using scala and sbt and spark. 
 
-## What do I find myself day-dreaming about?
+# What do I find myself day-dreaming about?
   ### - wondering what I enjoy more -- writing or selling software solutions
   ### - computer science fundamentals
   ### - writing optimal algorithms and data structures for solving problems
   ### - scala and functional programming
   ### - being mesmerized when I come across beautifully constructed composable programs based on zio
 
-## My Current Favorite Tools and Add-ons:
+# My Current Favorite Tools and Add-ons:
 ```
 * fedora/rhel os
 * tmux with oh my tmux config
