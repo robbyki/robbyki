@@ -4,6 +4,8 @@
 ## What do I find myself day-dreaming about?
   - wondering what I enjoy more -- writing or selling software solutions
   - computer science fundamentals
+  - finding the time to read more fiction
+  - finding excuses to use my hand tools to build and fix things (or maybe break things in order to put them back together again)
   - writing optimal algorithms and data structures for solving problems
   - scala and functional programming
   - being mesmerized when I come across beautifully constructed composable programs based on zio
