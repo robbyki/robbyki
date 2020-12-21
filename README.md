@@ -16,7 +16,7 @@
 * tmux with oh my tmux config
 * bpytop system monitoring
 * vifm file explorer
-* vim editor
+* vimming
 * vscode ide
 * discord communities
 * ammonite repl
@@ -36,6 +36,7 @@
 * dbeaver database client
 * zio library (work in progress to learn)
 * jupyter
+* pandas
 * das keyboard (cherry mx brown + pbt keycaps)
 ```
 
