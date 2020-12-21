@@ -1,5 +1,5 @@
 ## What am I up to?
-- I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala and sbt and spark. 
+- I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala, sbt and spark. 
 
 ## What do I find myself day-dreaming about?
   - wondering what I enjoy more -- writing or selling software solutions
