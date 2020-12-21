@@ -35,6 +35,7 @@
 * powerline prompt
 * dbeaver database client
 * zio library (work in progress to learn)
+* sbt
 * jupyter
 * pandas
 * das keyboard (cherry mx brown + pbt keycaps)
