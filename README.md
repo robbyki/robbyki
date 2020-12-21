@@ -14,25 +14,25 @@
 ```
 * fedora/rhel os
 * tmux with oh my tmux config
-* bpytop system monitoring
-* vifm file explorer
+* bpytop
+* vifm
 * vim
-* vscode ide
-* discord communities
-* ammonite repl
-* plantuml diagramming
-* metals language server
-* bloop build server
+* vscode
+* discord
+* ammonite
+* plantuml
+* metals
+* bloop
 * obs studio for recording tutorials
-* gh cli github tool
-* docker containers
-* mini-io object storage
+* gh cli
+* docker
+* minio-io
 * operator mono medium font
 * vscode devcontainers
 * fzf cli fuzzy finder with vim integration
 * vim nerdtree
 * gruvbox colorscheme
-* powerline prompt
+* powerline
 * dbeaver database client
 * scala
 * zio library (work in progress to learn)
