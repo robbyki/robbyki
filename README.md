@@ -16,7 +16,7 @@
 * tmux with oh my tmux config
 * bpytop system monitoring
 * vifm file explorer
-* vimming
+* vim
 * vscode ide
 * discord communities
 * ammonite repl
