@@ -3,7 +3,7 @@
   libraries for data engineering teams using scala and sbt and spark. 
 
 ## What do I find myself day-dreaming about?
-  * what I enjoy more -- writing or selling software solutions
+  * wondering what I enjoy more -- writing or selling software solutions
   * computer science fundamentals
   * writing optimal algorithms and data structures for solving problems
   * scala and functional programming
