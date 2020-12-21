@@ -34,6 +34,7 @@
 * dbeaver database client
 * zio library (work in progress to learn)
 * jupyter
+* das keyboard with cherry mx brown switches and pbt keycaps
 ```
 
 <!--
