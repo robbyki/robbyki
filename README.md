@@ -12,7 +12,7 @@
 
 ## My Current Favorite Tools and Add-ons:
 ```
-* fedora/rhel os
+* fedora/rhel
 * tmux with oh my tmux config
 * bpytop
 * vifm
