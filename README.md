@@ -10,6 +10,7 @@
   and profitability is a highly difficult and complex challenge. I am so inspired by stories of
   people and organizations putting into practice difficult and selfless and compassionate measures
   to combat joyless work.
+* Surviving the first 2 years of parenting (also keeping my daughter alive)
 
 ### *TV show that has had the most impact on my life*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
@@ -18,7 +19,7 @@
   producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate consistent portrayal of
   engineers is a toxic danger to how programmers are perceived by youth)
 
-### *What do I find myself day-dreaming about?*
+### *What I tend to find myself day-dreaming about?*
 * wondering what I enjoy more -- writing or selling solutions to complex problems
 * what is programming going to look like 100 years from now?
 * finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
