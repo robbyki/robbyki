@@ -36,6 +36,7 @@
 ### *Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):*
 * Women in STEM
 * Ageism in Tech
+<sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
 ### *Some of my favorite books:*
 * Deep Work -- Cal Newport
@@ -43,8 +44,6 @@
 * Hackers: Heroes of the Computer Revolution -- Steven Levy
 * Algorithms to Live By: The Computer Science of Human Decisions -- Brian Christian and Tom Griffiths
 * The Subtle Art of Not Giving a F*ck & Everything Is F*cked -- Mark Manson
-
-<sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
 ### *My Current Favorite Tools and Add-ons:*
 ```
