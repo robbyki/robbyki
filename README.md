@@ -13,7 +13,7 @@
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
   me and have shaped a major part of my psyche. Geordi La Forge is hands down the coolest engineer
   in the history of humanity and probably the reason I even went into technology. (FYI to the
-  producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate portrayal of
+  producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate consistent portrayal of
   engineers is a toxic danger to how programmers are perceived by youth)
 
 ### *What do I find myself day-dreaming about?*
@@ -73,7 +73,7 @@
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
-* Theatre Actor (Post-Covid)
+* Theatre Actor (Post-Covid && Pre-`[Pandemic: Any]`)
 
 ### *Links*
 * https://www.linkedin.com/in/robkiskanyan/
