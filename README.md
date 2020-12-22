@@ -20,7 +20,7 @@
   producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate consistent portrayal of
   engineers is a toxic danger to how programmers are perceived by youth)
 
-### *What I tend to find myself day-dreaming about?:*
+### *What I tend to find myself day-dreaming about:*
 * wondering what I enjoy more -- writing or selling solutions to complex problems
 * what is programming going to look like 100 years from now?
 * finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
