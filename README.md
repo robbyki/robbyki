@@ -33,7 +33,7 @@
 * plantuml
 * metals
 * bloop
-* obs studio for recording tutorials
+* obs studio (recording tutorials)
 * gh cli
 * docker
 * minio-io
