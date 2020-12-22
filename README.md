@@ -36,6 +36,7 @@
 ### *Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):*
 * Women in STEM
 * Ageism in Tech
+
 <sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
 ### *Some of my favorite books:*
