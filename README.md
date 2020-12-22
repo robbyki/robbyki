@@ -50,6 +50,7 @@
 * jupyter
 * pandas
 * das keyboard (cherry mx brown + pbt keycaps)
+* google pixel 5
 ```
 
 <!--
