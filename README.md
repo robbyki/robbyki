@@ -1,7 +1,3 @@
-### Links
-* https://www.linkedin.com/in/robkiskanyan/
-* (youtube channel for tutorials - coming soon)
-
 ### What am I up to?
 - I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala, sbt and spark. 
 
@@ -56,6 +52,10 @@
 * das keyboard (cherry mx brown + pbt keycaps)
 * google pixel 5
 ```
+
+### Links
+* https://www.linkedin.com/in/robkiskanyan/
+* (youtube channel for tutorials - coming soon)
 
 <!--
 **robbyki/robbyki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
