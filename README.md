@@ -10,9 +10,15 @@
   - learning to write elegant and idiomatic solutions in scala and functional programming
   - being mesmerized when I come across beautifully constructed composable programs based on zio
 
-## Two Industries I'm most excited to see (or help with) continued disruption:
+## Industries I'm most excited to see (or help with) continued disruption:
   1. Higher Education
   2. Health & Fitness
+
+## Causes I believe in and plan to do my part as a new father (92% of Devs are male...What??!!):
+  * Women in STEM
+  * Ageism in Tech
+
+<sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
 ## My Current Favorite Tools and Add-ons:
 ```
