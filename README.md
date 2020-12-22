@@ -84,12 +84,15 @@
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
-* ```
+* `other(false)` // arbitrary optimistic argument
+```
+def other(isPandemic: Boolean): Unit = {
   isPandemic match {
-      case false => theatre actor
-      case _ => epidemiologist
+      case false => println("theatre actor")
+      case _ => println("epidemiologist")
   }
-  ```
+}
+```
 
 ### *Links:*
 * https://www.linkedin.com/in/robkiskanyan/
