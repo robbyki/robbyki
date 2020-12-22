@@ -36,7 +36,7 @@
 * obs studio (recording tutorials)
 * gh cli
 * docker
-* minio-io
+* minio
 * operator mono font
 * vscode devcontainers
 * fzf cli fuzzy finder with vim integration
