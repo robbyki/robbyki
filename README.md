@@ -82,7 +82,12 @@
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
-* Theatre Actor (Post-Covid && Pre-`[Pandemic: Any]`)
+* ```
+  isPandemic match {
+      case false => theatre actor
+      case _ => epidemiologist
+  }
+  ```
 
 ### *Links*
 * https://www.linkedin.com/in/robkiskanyan/
