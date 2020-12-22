@@ -1,7 +1,7 @@
-## What am I up to?
+### What am I up to?
 - I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala, sbt and spark. 
 
-## What do I find myself day-dreaming about?
+### What do I find myself day-dreaming about?
   - wondering what I enjoy more -- writing or selling the solutions to complex problems
   - what is programming going to look like in 100 years from now?
   - finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
@@ -10,17 +10,17 @@
   - learning to write elegant and idiomatic solutions in scala and functional programming
   - being mesmerized when I come across beautifully constructed composable programs based on zio
 
-## Industries I'm most excited to see (or help with) continued disruption:
+### Industries I'm most excited to see (or help with) continued disruption:
   1. Higher Education
   2. Health & Fitness
 
-## Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):
+### Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):
   * Women in STEM
   * Ageism in Tech
 
 <sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
-## My Current Favorite Tools and Add-ons:
+### My Current Favorite Tools and Add-ons:
 ```
 * fedora/rhel
 * tmux with oh my tmux config
