@@ -5,9 +5,10 @@
 ### *What I am most proud of*
 * Not having a "job" in more than 15 years and being among the ~30% who DO NOT consider work they do
   a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or management
-  position should find alarming and unsettling. Based on my personal experiences at various organizations,
-  I've concluded that creating an environment cultivating joy and purpose is a highly difficult and complex
-  challenge; hence why it's so uncommon to see successfully executed. 
+  position should find alarming and unsettling. Based on my personal experiences at various
+  organizations and cultures, I've concluded that creating an environment cultivating joy, purpose and
+  profitability is a highly difficult and complex challenge. I am so inspired by stories of people
+  and organizations putting into practice difficult and selfless measures to combat joyless work.
 
 ### *TV show that has had the most impact on my life*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
@@ -26,12 +27,19 @@
 * being mesmerized when I come across beautifully constructed composable programs based on zio
 
 ### *Industries I'm most excited to see (or help with) continued disruption*
-  1. Higher Education
-  2. Health & Fitness
+1. Higher Education
+2. Health & Fitness
 
 ### *Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!)*
-  * Women in STEM
-  * Ageism in Tech
+* Women in STEM
+* Ageism in Tech
+
+### *Some of my favorite books*
+* Deep Work -- Cal Newport
+* Walking -- Henry David Thoreau
+* Hackers: Heroes of the Computer Revolution -- Steven Levy
+* Algorithms to Live By: The Computer Science of Human Decisions -- Brian Christian and Tom Griffiths
+* The Subtle Art of Not Giving a F*ck & Everything Is F*cked -- Mark Manson
 
 <sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
