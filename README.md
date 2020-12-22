@@ -58,7 +58,7 @@
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
-* Theatre Actor
+* Theatre Actor (Post-Covid)
 
 ### Links
 * https://www.linkedin.com/in/robkiskanyan/
