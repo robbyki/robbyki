@@ -1,3 +1,7 @@
+### Links
+* https://www.linkedin.com/in/robkiskanyan/
+* (youtube channel for tutorials - coming soon)
+
 ### What am I up to?
 - I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala, sbt and spark. 
 
