@@ -80,7 +80,7 @@
 ```
 
 ### *Careers I might have if I ran into myself in an alternate dimension:*
-* Contractor driving around in those awesome square vans filled with really useful tools
+* Handyman or Carpenter driving around in those awesome square vans filled with really useful tools
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
