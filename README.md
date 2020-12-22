@@ -14,7 +14,7 @@
   1. Higher Education
   2. Health & Fitness
 
-## Causes I believe in and plan to do my part as a new father (92% of Devs are male...What??!!):
+## Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):
   * Women in STEM
   * Ageism in Tech
 
