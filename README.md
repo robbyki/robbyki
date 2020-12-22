@@ -1,26 +1,41 @@
-### What am I up to?
-- I'm currently working at IBM building application level tooling, build environments and ETL libraries for data engineering teams using scala, sbt and spark. 
+### *What am I up to?*
+* I'm currently working at IBM building application-level tooling, build environments and ETL
+  libraries for data engineering teams using scala, sbt and spark. 
 
-### What do I find myself day-dreaming about?
-  - wondering what I enjoy more -- writing or selling the solutions to complex problems
-  - what is programming going to look like in 100 years from now?
-  - finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
-  - finding excuses to use my hand tools to build and fix things (or maybe break things in order to then fix them again)
-  - writing optimal algorithms and data structures for solving problems
-  - learning to write elegant and idiomatic solutions in scala and functional programming
-  - being mesmerized when I come across beautifully constructed composable programs based on zio
+### *What I am most proud of*
+* Not having a "job" in more than 15 years and being among the ~30% who don't consider work they do
+  a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or management
+  position should find alarming and unsettling. Based on my personal experiences at various organizations,
+  I've concluded that creating an environment cultivating joy and purpose is a highly difficult and complex
+  challenge; hence why it's so uncommon to see successfully executed. 
 
-### Industries I'm most excited to see (or help with) continued disruption:
+### *TV show that has had the most impact on my life*
+* I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
+  me and have shaped a major part of my psyche. Geordi La Forge is hands down the coolest engineer
+  in the history of humanity and probably the reason I even went into technology. (FYI to the
+  producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate portrayal of
+  engineers is a toxic danger to how programmers are perceived by youth)
+
+### *What do I find myself day-dreaming about?*
+* wondering what I enjoy more -- writing or selling the solutions to complex problems
+* what is programming going to look like 100 years from now?
+* finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
+* finding excuses to use my hand tools to build and fix things (or maybe break things in order to then fix them again)
+* writing optimal algorithms and data structures for solving problems
+* learning to write elegant and idiomatic solutions in scala and functional programming
+* being mesmerized when I come across beautifully constructed composable programs based on zio
+
+### *Industries I'm most excited to see (or help with) continued disruption*
   1. Higher Education
   2. Health & Fitness
 
-### Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):
+### *Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!)*
   * Women in STEM
   * Ageism in Tech
 
 <sup>**</sub>https://insights.stackoverflow.com/survey/2020#developer-profile-gender-professional-developers2
 
-### My Current Favorite Tools and Add-ons:
+### *My Current Favorite Tools and Add-ons*
 ```
 * fedora/rhel
 * tmux with oh my tmux config
@@ -53,14 +68,14 @@
 * google pixel 5
 ```
 
-### Careers I might have if I ran into myself in an alternate dimension:
+### *Careers I might have if I ran into myself in an alternate dimension*
 * Contractor driving around in those awesome square vans filled with really useful tools
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
 * Theatre Actor (Post-Covid)
 
-### Links
+### *Links*
 * https://www.linkedin.com/in/robkiskanyan/
 * (youtube channel for tutorials - coming soon)
 
