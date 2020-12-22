@@ -18,7 +18,7 @@
   engineers is a toxic danger to how programmers are perceived by youth)
 
 ### *What do I find myself day-dreaming about?*
-* wondering what I enjoy more -- writing or selling the solutions to complex problems
+* wondering what I enjoy more -- writing or selling solutions to complex problems
 * what is programming going to look like 100 years from now?
 * finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
 * finding excuses to use my hand tools to build and fix things (or maybe break things in order to then fix them again)
