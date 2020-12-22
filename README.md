@@ -11,7 +11,7 @@
   - being mesmerized when I come across beautifully constructed composable programs based on zio
 
 ## Two Industries I'm most excited to see (or help with) continued disruption:
-  1. Education
+  1. Higher Education
   2. Health & Fitness
 
 ## My Current Favorite Tools and Add-ons:
