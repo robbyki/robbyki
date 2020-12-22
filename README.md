@@ -6,9 +6,10 @@
 * Not having a "job" in more than 15 years and being among the ~30% who DO NOT consider work they do
   a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or management
   position should find alarming and unsettling. Based on my personal experiences at various
-  organizations and cultures, I've concluded that creating an environment cultivating joy, purpose and
-  profitability is a highly difficult and complex challenge. I am so inspired by stories of people
-  and organizations putting into practice difficult and selfless measures to combat joyless work.
+  organizations and cultures, I've concluded that creating an environment cultivating joy, purpose
+  and profitability is a highly difficult and complex challenge. I am so inspired by stories of
+  people and organizations putting into practice difficult and selfless and compassionate measures
+  to combat joyless work.
 
 ### *TV show that has had the most impact on my life*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
