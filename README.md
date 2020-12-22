@@ -10,7 +10,8 @@
   and profitability is a highly difficult and complex challenge. I am so inspired by stories of
   people and organizations putting into practice difficult and selfless and compassionate measures
   to combat joyless work.
-* Surviving the first 2 years of parenting (also keeping my daughter alive)
+* Surviving the first 2 years of parenting (this would obviously also imply that I've managed to
+  keep my daughter alive as well)
 
 ### *TV show that has had the most impact on my life*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
