@@ -20,7 +20,7 @@
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
   me and have shaped a major part of my psyche. Geordi La Forge is hands down the coolest engineer
   in the history of humanity and probably the reason I even went into technology. (FYI to the
-  producers of the Bing Bang Theory...I'm a big fan of parodies but your inaccurate consistent portrayal of
+  producers of the Big Bang Theory...I'm a big fan of parodies but your inaccurate consistent portrayal of
   engineers is a toxic danger to how programmers are perceived by youth)
 
 ### *:thinking: What I tend to find myself day-dreaming about:*
