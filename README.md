@@ -13,8 +13,6 @@
 * Mentoring and having the opportunity to work with brilliant people and being able to convey my
   passion for technology to other developers who have then expressed to me how much darn fun they
   are having (most rewarding thing ever). 
-* Surviving the first 2 years of parenting (this would obviously also imply that I've managed to
-  keep my daughter alive as well)
 
 ### *:tv: TV show that has had the most impact on my life:*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
@@ -34,7 +32,7 @@
 * being mesmerized when I come across beautifully constructed composable programs based on zio
 
 ### *:mortar_board: :weight_lifting_woman: Industries I'm most excited to see (or help with) continued disruption:*
-1. Higher Education
+1. Education
 2. Health & Fitness
 
 ### *:disappointed: Cultural tragedies I plan to do my part as a new father to improve (92% of Devs are male...What??!!):*
