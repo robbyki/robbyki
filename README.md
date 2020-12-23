@@ -98,7 +98,7 @@ def other(isPandemic: Boolean): Unit = {
 }
 ```
 
-### *My current obsession:*
+### *My current obsession:stuck_out_tongue: :*
 * Becoming more effective across the many different roles I play in my work and personal life by achieving more balance
 
 ### *Links:*
