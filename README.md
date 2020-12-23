@@ -87,6 +87,7 @@
 * Professional Hockey Player bringing back the glory days for the Montreal Canadians
 * STEM Professor
 * Novelist
+* Seal Team Member
 * `other(false)` // arbitrary optimistic argument
 ```
 def other(isPandemic: Boolean): Unit = {
