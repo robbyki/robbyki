@@ -98,6 +98,9 @@ def other(isPandemic: Boolean): Unit = {
 }
 ```
 
+### *My current obsession:*
+* Becoming more effective across the many different roles I play in my work and personal life by achieving more balance
+
 ### *Links:*
 * https://www.linkedin.com/in/robkiskanyan/
 * (youtube channel for tutorials - coming soon)
