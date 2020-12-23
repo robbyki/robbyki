@@ -10,6 +10,9 @@
   and profitability is a highly difficult and complex challenge. I am so inspired by stories of
   people and organizations putting into practice difficult and selfless and compassionate measures
   to combat joyless work.
+* Mentoring and having the opportunity to work with brilliant people and being able to convey my
+  passion for technology to other developers who have then expressed to me how much darn fun they
+  are having (most rewarding thing ever). 
 * Surviving the first 2 years of parenting (this would obviously also imply that I've managed to
   keep my daughter alive as well)
 
