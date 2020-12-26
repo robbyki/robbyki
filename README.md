@@ -3,16 +3,18 @@
   libraries for data engineering teams using scala, sbt and spark. 
 
 ### *:grin: What I am most proud of:*
-* Not having a "job" in more than 15 years and being among the ~30% who DO NOT consider work they do
-  a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or management
-  position should find alarming and unsettling. Based on my personal experiences at various
-  organizations and cultures, I've concluded that creating an environment cultivating joy, purpose
-  and profitability is a highly difficult and complex challenge. I am so inspired by stories of
-  people and organizations putting into practice difficult and selfless and compassionate measures
-  to combat joyless work.
+* Not having a "job" in more than 15 years and being among the 13% globally who DO NOT consider work
+  they do a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or
+  management position should find alarming and unsettling. Based on my personal experiences at
+  various organizations and cultures, I've concluded that creating an environment cultivating joy,
+  purpose and profitability is a highly difficult and complex challenge. I am so inspired by stories
+  of people and organizations putting into practice difficult and selfless and compassionate
+  measures to combat joyless work.
 * Mentoring and having the opportunity to work with brilliant people and being able to convey my
   passion for technology to other developers who have then expressed to me how much darn fun they
   are having (most rewarding thing ever). 
+
+<sup>**</sub>https://www.forbes.com/sites/nazbeheshti/2018/09/30/our-approach-to-employee-engagement-is-not-working/?sh=68da3d107274
 
 ### *:tv: TV show that has had the most impact on my life:*
 * I'm pretty sure by most psychological measures, the Star Trek TNG characters have literally raised
