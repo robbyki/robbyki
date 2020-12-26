@@ -3,7 +3,7 @@
   libraries for data engineering teams using scala, sbt and spark. 
 
 ### *:grin: What I am most proud of:*
-* Not having a "job" in more than 15 years and being among the 13% globally who DO NOT consider work
+* Not having a "job" in more than 15 years and being among the 13%<sup>**</sup> globally who DO NOT consider work
   they do a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or
   management position should find alarming and unsettling. Based on my personal experiences at
   various organizations and cultures, I've concluded that creating an environment cultivating joy,
