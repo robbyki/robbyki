@@ -3,17 +3,43 @@
   libraries for data engineering teams using scala, sbt and spark. 
 
 ### *:grin: What I am most proud of:*
-* Not having a "job" in more than 15 years and counting myself among the 13%<sup>**</sup> globally
-  who DO NOT consider the actual work they do a painfully loathsome never-ending nightmare. A
-  statistic everyone in a leadership or management position should find alarming and unsettling.
-  Based on my personal experiences at various organizations and cultures, I've concluded that
-  creating an environment cultivating independence, decentralized decision making, joy, purpose and
-  profitability is a highly difficult and complex challenge. I am so inspired by stories of people
-  and organizations putting into practice difficult and selfless and compassionate measures to
-  combat joyless work.
-* Mentoring and having the opportunity to work with brilliant people and being able to convey my
-  passion for technology to other developers who have then expressed to me how much darn fun they
-  are having (most rewarding thing ever). 
+* Becoming a software developer through obsessive and expensive autodidacticism
+  * I tend to be get varying types of reactions to the idea that I don't have a traditional computer science degree. I
+    suppose, in general, people tend to be impressed by the notion of being self-taught but I always feel the need to
+    qualify and put into context the reality of what exactly it means to be an STP (self-taught programmer) -- Yes I
+    just made up that acronym because I love acronyms. Firstly, I am not a programming prodigy by a long shot and
+    although I have always had a passion for scientific oriented pursuits, it wasn't until much later in my career that
+    I realized how much I enjoy building useful things using letters and symbols much less being able to make a living
+    out of it. More importantly though, I discovered my joy with building things as a technical account manager at Yahoo
+    where I got a major kick out of creating custom solutions using free tools and then seeing the end-user reactions
+    from clients. I have always been the kind of person who has felt the need to fully grasp and understand the "whole"
+    and creating solutions for clients without having a much more intimate relationship with the underlying components
+    of something just always felt very wrong to me and also greatly hindered my ability to cultivate trust and
+    credibility the way *I* wanted to cultivate trust and credibility. Which is why I wanted more of it. I wanted more
+    of the feeling I would get whenever I fully and intricately understood the esoteric and then making that tangible
+    and actionable for others was intoxicating to me. Having said that, being an STP IMHO, is an extremely costly
+    endeavor I decided to pursue so I always have to calibrate any pre-conceived notions for how it all happened. Like I
+    said, maybe some people can see the value in building "grit" and exercising the discipline required for learning
+    programming on your own time, throughout every single weekend and putting myself into bed at barely 8pm so that I
+    could wake at 4am and tap into my personal optimal circadiun rhythms but a part of me has always wished instead that
+    I was more of an arrogant programming prodigy instead and I'm guessing that is not an uncommon thought among those
+    who have had to endure hardship for a goal; perhaps you could also cogently argue that there are benefits and
+    negatives to both scenarios, who knows. My bottom line explanation to those who express any degree of surprise from
+    being a self-taught programmer is that it has required levels of commitment and focus and dedication I had
+    cultivated as a youth playing competitive sports so even though it felt familiar to me, the sacrifice and the cost
+    incurred does not change. Ultimately, I understand precisely at a remarkable and sobering level of detail what is
+    required of *me* for accomplishing a particular goal or task. I know this because nothing has come easily to me both
+    in athletics or in cognitive pursuits. On the other hand, being a self-taught programmer has always made sure that I
+    remain humble and compassionate about others when it comes to reaching a goal or trying to gain expertise in
+    anything and that is something I have to be grateful of.
+* Not having a "job" in more than 15 years and counting myself among the 13%<sup>**</sup> globally who DO NOT consider
+  the actual work they do a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or
+  management position should find alarming and unsettling. Based on my personal experiences at various organizations and
+  cultures, I've concluded that creating an environment cultivating independence, decentralized decision making, joy,
+  purpose and profitability is a highly difficult and complex challenge. I am so inspired by stories of people and
+  organizations putting into practice difficult and selfless and compassionate measures to combat joyless work.
+* Mentoring and having the opportunity to work with brilliant people and being able to convey my passion for technology
+  to other developers who have then expressed to me how much darn fun they are having (most rewarding thing ever). 
 
 <sup>**</sub>https://www.forbes.com/sites/nazbeheshti/2018/09/30/our-approach-to-employee-engagement-is-not-working/?sh=68da3d107274
 
@@ -57,6 +83,7 @@
 * tmux with oh my tmux config
 * bpytop
 * vifm
+* dive
 * vim
 * vscode
 * discord
