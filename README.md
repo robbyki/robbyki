@@ -15,7 +15,7 @@
     from clients. I have always been the kind of person who has felt the need to fully grasp and understand the "whole"
     and creating solutions for clients without having a much more intimate relationship with the underlying components
     of something just always felt very wrong to me and also greatly hindered my ability to cultivate trust and
-    credibility the way *I* wanted to cultivate trust and credibility. Which is why I wanted more of it. I wanted more
+    credibility the way *I* wanted to cultivate trust and credibility. Which is why I wanted more of it; I wanted more
     of the feeling I would get whenever I fully and intricately understood the esoteric and then making that tangible
     and actionable for others was intoxicating to me. Having said that, being an STP IMHO, is an extremely costly
     endeavor I decided to pursue so I always have to calibrate any pre-conceived notions for how it all happened. Like I
@@ -28,10 +28,9 @@
     being a self-taught programmer is that it has required levels of commitment and focus and dedication I had
     cultivated as a youth playing competitive sports so even though it felt familiar to me, the sacrifice and the cost
     incurred does not change. Ultimately, I understand precisely at a remarkable and sobering level of detail what is
-    required of *me* for accomplishing a particular goal or task. I know this because nothing has come easily to me both
-    in athletics or in cognitive pursuits. On the other hand, being a self-taught programmer has always made sure that I
-    remain humble and compassionate about others when it comes to reaching a goal or trying to gain expertise in
-    anything and that is something I have to be grateful of.
+    required of *me* for accomplishing a particular goal or task. On the other hand, being a self-taught programmer has
+    always made sure that I remain humble and compassionate about others when it comes to reaching a goal or trying to
+    gain expertise in anything and that is something I am unquestionably grateful of.
 * Not having a "job" in more than 15 years and counting myself among the 13%<sup>**</sup> globally who DO NOT consider
   the actual work they do a painfully loathsome never-ending nightmare. A statistic everyone in a leadership or
   management position should find alarming and unsettling. Based on my personal experiences at various organizations and
