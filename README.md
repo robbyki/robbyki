@@ -53,7 +53,7 @@
 * wondering what I enjoy more -- writing or selling solutions to complex problems
 * what is programming going to look like 100 years from now?
 * finding the time to read more fiction (especially all of the incredible sci-fi I still have not read)
-* finding excuses to use my hand tools to build and fix things (or maybe break things in order to then fix them again)
+* looking for excuses to build and fix things around the house (or maybe break things in order to then fix them again)
 * writing optimal algorithms and data structures for solving problems
 * learning to write elegant and idiomatic solutions in scala and functional programming
 * being mesmerized when I come across beautifully constructed composable programs based on zio
@@ -87,7 +87,7 @@
 * discord
 * ammonite
 * plantuml
-* metals
+* metals (for vscode and vim)
 * bloop
 * obs studio (recording tutorials)
 * gh cli
@@ -95,7 +95,7 @@
 * minio
 * operator mono font
 * vscode devcontainers
-* fzf cli fuzzy finder with vim integration
+* fzf and fzf-vim
 * vim nerdtree
 * gruvbox colorscheme
 * powerline
