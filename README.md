@@ -89,7 +89,7 @@
 * plantuml
 * metals (for vscode and vim)
 * bloop
-* obs studio (recording tutorials)
+* obs studio
 * gh cli
 * docker
 * minio
@@ -97,6 +97,7 @@
 * vscode devcontainers
 * fzf and fzf-vim
 * vim nerdtree
+* lazygit
 * gruvbox colorscheme
 * powerline
 * dbeaver database client
