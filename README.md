@@ -11,8 +11,7 @@
     although I have always had a passion for scientific oriented pursuits, it wasn't until much later in my career that
     I realized how much I enjoy building useful things using letters and symbols much less being able to make a living
     out of it. More importantly though, I discovered my joy with building things as a technical account manager at Yahoo
-    where I got a major kick out of creating custom solutions using free tools and then seeing the end-user reactions
-    from clients. I have always been the kind of person who has felt the need to fully grasp and understand the "whole"
+    where I had a blast from creating custom solutions using open source tools and then seeing the end-user reactions. I have always been the kind of person who has felt the need to fully grasp and understand the "whole"
     and creating solutions for clients without having a much more intimate relationship with the underlying components
     of something just always felt very wrong to me and also greatly hindered my ability to cultivate trust and
     credibility the way *I* wanted to cultivate trust and credibility. Which is why I wanted more of it; I wanted more
