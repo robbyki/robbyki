@@ -1,5 +1,5 @@
 ### *What am I up to?*
-* Tweaking my dotfiles and everything neovim, kubernetes, containers and cloud native developments.
+* Tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything neovim, kubernetes, containers and cloud native developments.
 * Builder, architect and open source tooling advocate at IBM working on prototypes and
   demos of cloud native deployments, frameworks and application build
   environments.
