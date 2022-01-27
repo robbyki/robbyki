@@ -5,7 +5,7 @@
   environments.
 
 ### *:grin: What I am most proud of:*
-* Becoming a programmer through obsessive and very socially expensive autodidacticism
+* Becoming a programmer through tenacious and very socially costly autodidacticism
 * Not having a "job" in more than 15 years. 
 
 ### *:tv: TV show that has had the most impact on my life:*
@@ -85,9 +85,10 @@ def other(isPandemic: Boolean): Unit = {
 
 ### *:stuck_out_tongue: My current obsession:*
 * Building out my home workshop and learning to be handy and proficient at
-fixing and building things.
+fixing and building and breaking things.
 
 ### *:link: Links:*
+* https://www.robkiskanyan.com/
 * https://www.linkedin.com/in/robkiskanyan/
 * (youtube channel for tutorials - coming soon)
 
