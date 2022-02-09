@@ -90,7 +90,7 @@ fixing and building and breaking things.
 ### *:link: Links:*
 * https://www.robkiskanyan.com/
 * https://www.linkedin.com/in/robkiskanyan/
-* (youtube channel for tutorials - coming soon)
+* https://www.youtube.com/channel/UCDftpQCjQcm1Iwl7zJD8o_w
 
 <!--
 **robbyki/robbyki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
