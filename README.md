@@ -12,7 +12,7 @@
 
 ### *:thinking: What I tend to find myself day-dreaming about:*
 * "When do babies start sleeping through the night?"
-
+* "Why are pavers so expensive for driveways?"
 <!-- ### *:mortar_board: :weight_lifting_woman: Industries I'm most excited to see (or help with) continued disruption:* -->
 <!-- 1. Education -->
 <!-- 2. Health & Fitness -->
