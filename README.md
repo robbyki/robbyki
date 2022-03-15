@@ -1,6 +1,5 @@
 ### *What am I up to?*
-* Tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Linux, Kubernetes, Containers and cloud native development.
-* Creating video content and writing blogs about open source projects I consider really fun.
+* Tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Linux, Kubernetes and Containers.
 
 ### *:grin: What I am most proud of:*
 * Not having a "job" in more than 15 years.
@@ -13,6 +12,7 @@
 ### *:thinking: What I tend to find myself day-dreaming about:*
 * "When do babies start sleeping through the night?"
 * "Why are pavers so expensive for driveways?"
+* "Do I completely hate programming with all my heart or do I absolutely love it?" (I have a feeling that question is a common one among people who have devoted their careers to code.)
 <!-- ### *:mortar_board: :weight_lifting_woman: Industries I'm most excited to see (or help with) continued disruption:* -->
 <!-- 1. Education -->
 <!-- 2. Health & Fitness -->
