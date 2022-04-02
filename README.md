@@ -1,8 +1,8 @@
 ### *What am I up to?*
-* Tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Linux, Kubernetes and Containers.
+* Programming in Go, tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Linux, Kubernetes and Containers.
 
 ### *:grin: What I am most proud of:*
-* Not having a "job" in more than 15 years.
+* My wife having the bravery to leave a big tech company in order to grow a team at a startup.
 
 ### *:tv: TV show that has had the most impact on my life:*
 * I'm pretty sure by most psychological measures that the cast of Star Trek TNG has raised
@@ -12,7 +12,7 @@
 ### *:thinking: What I tend to find myself day-dreaming about:*
 * "When do babies start sleeping through the night?"
 * "Why are pavers so expensive for driveways?"
-* "Do I completely hate programming with all my heart or do I absolutely love it?" (I have a feeling that question is a common one among people who have devoted their careers to code.)
+* "Do I completely hate programming or do I love it more than anything else?" (I have a feeling that question is common one among people who have devoted their careers to code.)
 <!-- ### *:mortar_board: :weight_lifting_woman: Industries I'm most excited to see (or help with) continued disruption:* -->
 <!-- 1. Education -->
 <!-- 2. Health & Fitness -->
