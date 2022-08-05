@@ -1,5 +1,5 @@
 ### *What am I up to?*
-* Programming in Go, tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Linux, Kubernetes and Containers.
+* Tweaking my [dotfiles](https://github.com/robbyki/dotfiles) and everything Data, Linux, Kubernetes and Containers.
 
 ### *:grin: What I am most proud of:*
 * My wife having the bravery to leave a big tech company in order to grow a team at a startup.
@@ -74,9 +74,7 @@
 * Building out my home workshop and pretending to be handy around the house
 
 ### *:link: Links:*
-* https://www.robkiskanyan.com/
 * https://www.linkedin.com/in/robkiskanyan/
-* https://www.youtube.com/channel/UCDftpQCjQcm1Iwl7zJD8o_w
 
 <!--
 **robbyki/robbyki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
